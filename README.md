@@ -1,4 +1,8 @@
-# Foodtruck
+# Archived Repository
+
+This repository has been archived and will no longer receive updates. 
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+If you are a Chef customer and need support for this repository, please contact your Chef account team.# Foodtruck
 
 Foodtruck is a service to run ad-hoc jobs on nodes. It provides an HTTP API for administrators
 to request jobs be run on a set of nodes, along with querying the status of those jobs. Nodes,
